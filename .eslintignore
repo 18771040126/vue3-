@@ -1,0 +1,14 @@
+node_modules/
+dist/
+index.html
+
+
+**/*.svg
+**/*.sh
+
+/public/*
+*.js
+*.ts
+*.scss
+*.less
+*.css
